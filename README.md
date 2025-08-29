@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Enthusiast;Full+Stack+Developer;Problem+Solver;AI+Explorer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Enthusiast;Full+Stack+Developer;Problem+Solver;AI+Explorer)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hariksh2007&color=blue&style=flat-square)](https://github.com/hariksh2007)
 [![GitHub followers](https://img.shields.io/github/followers/hariksh2007?label=Follow&style=social)](https://github.com/hariksh2007)
@@ -57,14 +57,14 @@ const hariksh = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariksh2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariksh2007&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariksh2007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariksh2007&layout=compact&theme=radical"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hariksh2007&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hariksh2007&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -72,39 +72,17 @@ const hariksh = {
 
 ## 🎯 What You'll Discover Here
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💻 **Projects & Experiments**
 - Interactive web applications that push boundaries
 - Full-stack solutions with modern tech stacks
 - AI-powered tools and creative implementations
 - Open-source contributions and collaborations
 
-</td>
-<td width="50%">
-
 ### 🧠 **Code & Algorithms**
 - Clean, documented solutions to coding challenges
 - Data structure implementations and explanations
 - Algorithm optimizations and performance analysis
 - Learning notes and technical documentation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hariksh2007&repo=your-best-project&theme=tokyonight)](https://github.com/hariksh2007/your-best-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hariksh2007&repo=another-cool-project&theme=tokyonight)](https://github.com/hariksh2007/another-cool-project)
-
-</div>
 
 ---
 
@@ -124,19 +102,6 @@ const hariksh = {
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 12 mins   ████████████░░░░░░░░░   65.2%
-React        3 hrs 45 mins   ██████░░░░░░░░░░░░░░░   23.8%
-CSS          1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░    8.7%
-Python       18 mins         ░░░░░░░░░░░░░░░░░░░░░    2.3%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🎨 When I'm Not Coding
 
 - 🏏 **Cricket Enthusiast**: Analyzing match statistics and player performances
@@ -152,8 +117,6 @@ Python       18 mins         ░░░░░░░░░░░░░░░░░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariksh2007)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariksh2007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
@@ -163,7 +126,7 @@ Python       18 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -176,7 +139,5 @@ Python       18 mins         ░░░░░░░░░░░░░░░░░
 *Feel free to explore my repositories, star what interests you, and don't hesitate to reach out for collaborations or just a friendly tech chat!*
 
 **Happy Coding!** 🚀
-
-![Snake animation](https://github.com/hariksh2007/hariksh2007/blob/output/github-contribution-grid-snake.svg)
 
 </div>
