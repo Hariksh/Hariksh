@@ -7,16 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=praggCode&style=for-the-badge" alt="Profile views">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/progyan-sen-91b585331/">
+  <a href="https://www.linkedin.com/in/hariksh-suryawanshi-318a65314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:progyansen@gmail.com">
+  <a href="hariksh2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/pragg_2024/">
+  <a href="https://leetcode.com/u/Hariksh/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
-  <a href="https://www.codechef.com/users/pragg_2024">
+  <a href="https://www.codechef.com/users/grace_trail_85">
     <img src="https://img.shields.io/badge/-CodeChef-0F9D58?style=for-the-badge&logo=Codechef&logoColor=white">
   </a>
 </p>
