@@ -143,22 +143,6 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 
 <div align="center">
 
-## 📊 GitHub Universe Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariksh2007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&border_radius=15" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariksh2007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&border_radius=15" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariksh2007&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFF&border_radius=15" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=hariksh2007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 Current Mission & Collaboration Targets
 
 <table>
@@ -281,9 +265,6 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 ## 🚀 Let's Build Something Amazing Together!
 
 *Thank you for visiting my digital playground! 🌟*
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Always+ready+for+new+challenges!+⚡;Let's+collaborate+and+create!+🚀;Open+to+exciting+opportunities!+🌟;Happy+coding+and+keep+exploring!+💻" />
-
 *May your code always compile and your coffee stay warm!* ☕✨
 
 </div>
