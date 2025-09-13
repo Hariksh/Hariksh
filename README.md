@@ -176,99 +176,16 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 
 </div>
 
----
-
-<div align="center">
-
-## 🎭 Professional Journey Snapshot
-
-<blockquote>
-<h3>🧑‍💻 Current Status: <em>Tech Explorer at Eclat Engineering</em></h3>
-<p><em>"Hi there! I'm a passionate tech enthusiast with a knack for solving real-time problems. Always eager to learn and explore new technologies, I'm currently honing my skills at Eclat Engineering, where I'm excited to make a meaningful impact."</em></p>
-</blockquote>
-
-### 🌟 **Core Strengths & Values**
-- 💡 **Innovation**: Transforming ideas into elegant digital solutions
-- 🎨 **Design Thinking**: User-centric approach to every interface
-- 🔧 **Problem Solving**: Debugging life, one error at a time
-- 🌱 **Continuous Learning**: Staying ahead of the tech curve
-- 🤝 **Collaboration**: Building better together
-
-</div>
-
----
-
-<details>
-<summary>🎪 <strong>Fun Developer Stats & Random Facts</strong> 🎪</summary>
-
 <br>
 
 <div align="center">
 
-### 🦸‍♂️ Developer Superpowers
-
-| Superpower | Level | Daily Usage |
-|------------|--------|-------------|
-| ☕ **Coffee to Code Conversion** | ████████████████████ 100% | 6+ cups daily |
-| 🐛 **Bug Detection Radar** | ███████████████████░ 95% | Always active |
-| 🎨 **UI/UX Vision** | ██████████████████░░ 90% | Design thinking mode |
-| 🏔️ **Nature Photography** | ███████████████░░░░░ 75% | Weekend adventures |
-| 🤝 **Team Collaboration** | ██████████████████░░ 90% | Remote work ninja |
-
-### 🎯 **Random Developer Facts**
-- 🌅 Best coding hours: Early morning with coffee
-- 🎵 Coding soundtrack: Lo-fi beats and instrumental music  
-- 🏞️ Inspiration source: Mountain hiking and nature photography
-- 🧩 Favorite debugging method: Rubber duck + console.log()
-- 🎨 Design philosophy: Simple, clean, and user-friendly
-
-</div>
 
 </details>
 
 ---
 
-<div align="center">
-
-## 💭 Developer Philosophy
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "The best code is not just functional—it tells a story,     ║
-║   solves real problems, and makes someone's life easier."    ║
-║                                        - Hariksh, 2024      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### 🌟 My Coding Mantras
-- *"Code with empathy, design with purpose"*
-- *"Every bug is a learning opportunity in disguise"*
-- *"Great UX is invisible—users should never struggle"*
-- *"Open source is the future; contribute and grow together"*
-
-</div>
-
----
 
 <div align="center">
 
-## 🎪 Random Developer Wisdom
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Let's Build Something Amazing Together!
-
-*Thank you for visiting my digital playground! 🌟*
-*May your code always compile and your coffee stay warm!* ☕✨
-
-</div>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
-</p>
