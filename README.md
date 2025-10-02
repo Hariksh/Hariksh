@@ -6,9 +6,9 @@
   
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Hariksh Suryawanshi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%26+Tech+Explorer+%F0%9F%A7%A9" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;" alt="Typing SVG" /> 
 </div>
+
 
 <div align="center">
   
