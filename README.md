@@ -188,4 +188,6 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 
 <div align="center">
 
+[![An image of @hariksh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariksh)](https://holopin.io/@hariksh)
+
 
