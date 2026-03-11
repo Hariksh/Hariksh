@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me Across The Digital Universe
+## Connect With Me Across The Digital Universe
 
 <a href="https://www.linkedin.com/in/hariksh-suryawanshi-318a65314/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-## 🎭 About The Developer Behind The Screen
+## About The Developer Behind The Screen
 
 ```javascript
 class DeveloperProfile {
