@@ -79,7 +79,7 @@ console.log("Welcome to my digital playground! 🎮");
 Welcome to my little corner of the web! 🚀  
 I'm a passionate **Web Developer** with a love for **UI/UX design** and a strong inclination towards **open-source projects**. My journey in tech is fueled by curiosity and a constant desire to learn and create.
 
-### 🎯 **What Drives Me**
+### **What Drives Me**
 - ✨ Crafting seamless web experiences that users love
 - ✨ Learning cutting-edge technologies and sharing knowledge  
 - ✨ Turning innovative ideas into impactful digital solutions
