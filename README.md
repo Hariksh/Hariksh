@@ -72,11 +72,11 @@ console.log("Welcome to my digital playground! 🎮");
 ---
 
 <details>
-<summary>🌟 <strong>Click to Explore My Journey</strong> 🌟</summary>
+<summary><strong>Click to Explore My Journey</strong> </summary>
 
 <br>
 
-Welcome to my little corner of the web! 🚀  
+Welcome to my little corner of the web! 
 I'm a passionate **Web Developer** with a love for **UI/UX design** and a strong inclination towards **open-source projects**. My journey in tech is fueled by curiosity and a constant desire to learn and create.
 
 ### **What Drives Me**
@@ -96,7 +96,7 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 
 ## 🛠️ My Tech Arsenal
 
-### 💻 **Programming Languages**
+### **Programming Languages**
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 
 <p align="center">
@@ -106,7 +106,7 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C">
 </p>
 
-### 🎨 **Frontend Mastery**
+### **Frontend Mastery**
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
 <p align="center">
@@ -127,7 +127,7 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"> 
 </p>
 
-### 🚀 **DevOps & Deployment**
+### **DevOps & Deployment**
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 
 <p align="center">
