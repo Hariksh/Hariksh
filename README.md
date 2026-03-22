@@ -33,7 +33,7 @@ const hariksh = {
   fuel      : "☕  →  💻  →  🚀",
 
   stack : {
-    languages : ["JavaScript", "TypeScript", "Python", "C++"],
+    languages : ["JavaScript", "TypeScript", "Python"],
     frontend  : ["React", "Tailwind CSS", "HTML5", "CSS3"],
     backend   : ["Node.js", "Express.js", "MongoDB", "MySQL"],
     deploy    : ["Vercel", "Netlify", "Git", "GitHub"],
@@ -66,7 +66,6 @@ const hariksh = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 
 <br>
 
