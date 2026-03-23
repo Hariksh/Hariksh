@@ -29,8 +29,7 @@
 
 const hariksh = {
   role      : "Full Stack Developer & UI/UX Enthusiast",
-  location  : "India 🇮🇳",
-  fuel      : "☕  →  💻  →  🚀",
+  location  : "India",
 
   stack : {
     languages : ["JavaScript", "TypeScript", "Python"],
@@ -41,7 +40,7 @@ const hariksh = {
 
   currentMission : "Building the future, one component at a time",
   openTo         : ["Full-stack projects", "Open source", "Collabs"],
-  offscreen      : ["Hiking 🏔️", "Photography 📸", "Nature trails"],
+  offscreen      : ["Hiking", "Photography", "Nature trails"],
 
   philosophy : `
     Code with purpose.
